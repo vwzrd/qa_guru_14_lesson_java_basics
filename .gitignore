@@ -1,6 +1,7 @@
 .gradle/
-.idea/
+
 *.log
 *.class
 build/
 target/
+/.idea/
